@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/units">
+        <file>Unidades latex/Pas.png</file>
+        <file>Unidades latex/m.png</file>
+        <file>Unidades latex/MPa.png</file>
+        <file>Unidades latex/P.png</file>
+        <file>Unidades latex/s.png</file>
+        <file>Unidades latex/u.png</file>
+        <file>Unidades latex/g.png</file>
+        <file>Unidades latex/A.png</file>
+        <file>Unidades latex/Rg.png</file>
+        <file>Unidades latex/rho_l.png</file>
+        <file>Unidades latex/T0.png</file>
+    </qresource>
+</RCC>
