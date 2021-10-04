@@ -1,0 +1,24 @@
+# Indicamos fila por fila qué datos se deben escribir en el fichero, junto con los valores por defecto y las unidades.
+Temperatura del magma: 1123 (K)
+Densidad del magma: 2400 (kg/m^3)
+Viscosidad del magma: 1e6 (Pa·s)
+Constante de solubilidad: 4.11e-6 (Pa^(-1/2))
+Fracción másica inicial de gas: 0.05 (adimensional)
+Constante del gas: 462 (J / (kg· K))
+Área del conducto: 1963 (m^2)
+Coeficiente de rozamiento: 0.01 (adimensional)
+Aceleración de la gravedad: 9.81 (m/s^2)
+Presión en la cámara magmática: 200e6 (Pa)
+Profundidad de la cámara magmática: -8000 (m) ¡Debe ser negativo!
+Diferencial de presión inicial: -10000 (Pa)
+Precisión de cálculo: 1e-8 (adimensional)
+Número de datos máximo que mostrar a la salida: 1000
+Criterio para determinar el nivel de fragmentación. "0" para Volumen crítico Koyaguchi: 0
+Fracción volumétrica crítica Koyaguchi: 0.8 (adimensional)
+Modo de empleo. "0" para resolver dando la velocidad inicial abajo. "1" para obtener las variables en la superficie para un rango de velocidades iniciales. "2" para resolver usando las condiciones de contorno (solución física a la salida y presión en la boca): 2
+Velocidad inicial del magma (sólo se usa para el modo "0"): 2.00 (m/s)
+Extremo inferior del rango de velocidades del modo "1": 0 (m/s)
+Extremo superior del rango de velocidades del modo "2": 2.4 (m/s)
+Número de velocidades iniciales para las que calcular las variables a la salida: 1000
+Presión en la boca: 101325 (Pa)
+Mostrar Solución Analítica de Koyaguchi. "0" para no mostrarla, "1" para sí mostrarla: 0

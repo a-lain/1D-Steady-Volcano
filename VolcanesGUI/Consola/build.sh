@@ -1,0 +1,1 @@
+g++ -pthread main.cpp -o volcanes "../Simulación/fundamentos.o" "../Simulación/Koyaguchi.o" "../Simulación/progreso.o" "../Simulación/solveDiff.o" "../Simulación/volcanes.o" "../Simulación/analyticalKoyaguchi.cpp" "../Simulación/útil.o"
